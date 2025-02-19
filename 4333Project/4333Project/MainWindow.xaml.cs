@@ -29,7 +29,7 @@ namespace _4333Project
         {
             _4333_Зарифуллина _4333_Зарифуллина = new _4333_Зарифуллина();
             _4333_Зарифуллина.Show();
-            
+
         }
 
         private void ButtonDana_Click(object sender, RoutedEventArgs e)
@@ -62,7 +62,7 @@ namespace _4333Project
             _4333_Яфасова _4333_Яфасова = new _4333_Яфасова();
             _4333_Яфасова.Show();
         }
-        
+
         private void _4333_Mustafina_Click(object sender, RoutedEventArgs e)
         {
             var w = new _4333_Mustafina();
@@ -73,6 +73,12 @@ namespace _4333Project
         {
             _4333_Pavlova _4333_Pavlova = new _4333_Pavlova();
             _4333_Pavlova.Show();
+        }
+
+        private void Хайруллин4333_Click(object sender, RoutedEventArgs e)
+        {
+            _4333_Хайруллин _4333_Хайруллин = new _4333_Хайруллин();
+            _4333_Хайруллин.Show();
         }
     }
 }
